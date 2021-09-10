@@ -31,7 +31,15 @@ h1{
     color: white;
     font-weight: 700px;
 }
-section{
+.top-sec{
+    height: 500px;
+    padding-bottom: 300px;
+}
+.top-th{
+    height: 500px;
+    padding-bottom: 90px; 
+}
+.top-ec{
     height: 500px;
     padding-bottom: 300px;
 }
@@ -54,6 +62,9 @@ section{
     text-align: center;
 }
 .email-id{
-    line-height: 2;
+    line-break: auto;
+    text-align: center;
+}
+footer{
     text-align: center;
 }
