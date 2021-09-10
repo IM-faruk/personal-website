@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+#name{
+    color: #EC4C7A;
+    font-weight: 700;
+}
+.top-header{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+.top-header img{
+    width: 100%;
+}
+.p-p{
+    color: #949495;
+    line-height: 1.8;
+}
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(#EC4F8F ,#EC4C76);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+.top-pp{
+    margin-top: 5%;
+}
+.top-kp{
+    margin-top: 15%;
+}
+.my-work{
+    text-align: center;
+}
+.work{
+    width: 28%;
+    float: left;
+    margin-left: 45px;
+
+}
+.container{    
+    text-align: center;
+}
+.email-id{
+    line-height: 2;
+    text-align: center;
+}
